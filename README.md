@@ -29,3 +29,7 @@ Record from 2020 to 2022, when I am doing my bachelor in UESTC, Chengdu, Sichuan
 - Cinema 4D
 - Unity 3D
 - Unreal Engine 4
+## Plans for Studying Abroad
+- Target School
+  - [Carnegie Mellon University](https://www.cmu.edu/)
+  - [University of California San Diego](https://ucsd.edu/)
