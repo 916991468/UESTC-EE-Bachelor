@@ -33,3 +33,4 @@ Record from 2020 to 2022, when I am doing my bachelor in UESTC, Chengdu, Sichuan
 - Target School
   - [Carnegie Mellon University](https://www.cmu.edu/)
   - [University of California San Diego](https://ucsd.edu/)
+- Programs
