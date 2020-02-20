@@ -34,3 +34,8 @@ Record from 2020 to 2022, when I am doing my bachelor in UESTC, Chengdu, Sichuan
   - [Carnegie Mellon University](https://www.cmu.edu/)
   - [University of California San Diego](https://ucsd.edu/)
 - Programs
+## What I am focusing on
+- English Learning, especially the skills of speaking and listening
+- The Experience of doing research or project
+- improve the techniques of time management
+## Experience
